@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portfolio – Gabriel Lopes Freitas</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background: #f5f5f5;
+      color: #333;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #1a1a1a;
+    }
+    .section {
+      margin-bottom: 30px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Gabriel Lopes Freitas</h1>
+    <h2>Portfolio Profissional</h2>
+
+    <div class="section">
+      <h3>Sobre Mim</h3>
+      <p>Sou Gabriel, brasileiro, ex-oficial temporário do Exército, com experiência em vigilância patrimonial, construção civil e atualmente estudante de Análise e Desenvolvimento de Sistemas. Busco trabalhar remotamente para empresas internacionais, oferecendo disciplina, organização e entrega profissional.</p>
+    </div>
+
+    <div class="section">
+      <h3>Habilidades</h3>
+      <ul>
+        <li>Suporte técnico básico</li>
+        <li>Atendimento por chat e e-mail</li>
+        <li>Controle de agendas e planilhas</li>
+        <li>Organização e disciplina</li>
+        <li>Comunicação clara e objetiva</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h3>Experiência Profissional</h3>
+      <ul>
+        <li><strong>Oficial Temporário – Exército Brasileiro:</strong> liderança, rotina operacional e logística básica.</li>
+        <li><strong>Construção civil (autônomo):</strong> serviços gerais e interação direta com clientes.</li>
+        <li><strong>Vigilante Patrimonial:</strong> controle de acesso e segurança predial.</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h3>Formação</h3>
+      <p>Estudante de ADS – conclusão prevista para o próximo ano.</p>
+    </div>
+
+    <div class="section">
+      <h3>Contato</h3>
+      <p>Disponível para trabalho remoto internacional.</p>
+    </div>
+  </div>
+</body>
+</html>
